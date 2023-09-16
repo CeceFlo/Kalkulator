@@ -1,0 +1,40 @@
+.container {
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    border-radius: 15px;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+.display{
+    background-color: grey;
+    height: 100px;
+    width: 475px;
+    border-radius: 15px;
+    padding-top: 0px;
+    font-size: 30px;
+}
+
+button {
+    background-color: darkgrey;
+    color: white;
+    font-size: 23px;
+    border-radius: 5px;
+    height: 65px;
+    width: 110px;
+    margin-top: 10px;
+}
+
+.baris1 {
+    margin-right: 7px;
+}
+
+.baris2 {
+    margin-right: 7px;
+}
+
+.baris3 {
+    margin-right: 7px;
+}
+
